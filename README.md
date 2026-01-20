@@ -66,4 +66,31 @@ high-performance applications.
 - Android & iOS platforms  
 🔗 https://colorex.co.nz/
 
-### 🎓
+### 🎓 Super Kids App
+- Interactive educational app for kids  
+🔗 iOS App Store
+
+### 🎟 Mazoom Invitations
+- Digital invitations, RSVP & QR codes
+
+### 🏌️ AnyTimePro
+- Live golf coaching platform
+- Video, audio, Firebase, in-app purchases
+
+---
+
+## 🎓 Education
+
+- **MCA** – Gujarat Technological University (2009–2012)
+- **BCA** – Veer Narmad South Gujarat University (2005–2008)
+
+---
+
+## 📬 Contact
+
+📧 **vickeyram61@gmail.com**  
+💼 Available for **freelance / remote opportunities**
+
+---
+
+⭐ _If you like my work, feel free to star my repositories!_
