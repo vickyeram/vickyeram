@@ -1,96 +1,109 @@
-<!-- ===============================
-     Vikram Sisodiya | GitHub Profile
-     =============================== -->
+👋 Hi, I’m Vikram Sisodiya
 
-<h1 align="center">Hi 👋, I'm Vikram Sisodiya</h1>
-<h3 align="center">Senior Mobile & Web Developer (Flutter | Angular | React | .NET)</h3>
+🚀 Senior Mobile + Web Developer | Full-Stack Specialist
+Flutter • Dart • Angular • React • Node.js • Next.js • Nuxt • MERN • ASP .NET Core • REST APIs • iOS • Android • Web
 
-<p align="center">
-  <a href="mailto:vickeyram61@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/vikramsisodiya">LinkedIn</a> •
-  <a href="https://vikramsisodiya.com">Portfolio</a>
-</p>
+I’m a Senior Mobile & Web Developer with 8+ years of experience building scalable, high-performance mobile applications and modern web platforms. I specialize in Flutter (iOS & Android), modern JavaScript frameworks, and full-stack development, with a strong focus on clean architecture, maintainable code, and production-ready solutions.
 
----
+I enjoy transforming complex business requirements into robust, user-friendly applications that scale reliably in real-world production environments.
 
-## 🚀 About Me
+🎯 Tech Stack & Expertise
+📱 Mobile Development
 
-Senior **Mobile & Web Developer** with **8+ years of experience** building scalable,
-high-performance applications.
+Flutter • Dart (iOS & Android)
+State Management: Provider • Riverpod • GetX • Flutter Hooks
+Architecture: MVVM • Clean Architecture • SOLID Principles
+Responsive & Pixel-Perfect UI Development
 
-- 📱 Flutter (iOS & Android)
-- 🌐 .NET Core, Node, Angular, React
-- 🧠 Clean Architecture, MVVM, SOLID
-- ☁️ Azure, AWS, Firebase
-- 💳 Stripe, SendGrid, Auth Systems
+🌐 Web Development (Frontend)
 
----
+Angular • React.js
+Next.js • Nuxt.js
+HTML5 • CSS3 • SCSS • Bootstrap • Material UI
+Redux • SPA & SSR Applications
 
-## 🧰 Tech Stack
+🧩 Backend & Full-Stack
 
-### 📱 Mobile
-`Flutter` `Dart` `Provider` `Riverpod` `GetX`
+Node.js • Express.js
+ASP .NET Core • C#
+RESTful API Design & Integration
+MERN Stack (MongoDB • Express • React • Node)
 
-### 🌐 Frontend
-`Angular` `React` `Redux` `HTML` `CSS` `SCSS` `Material UI`
+🔌 Authentication, APIs & Integrations
 
-### 🧩 Backend
-`.NET Core` `C#` `REST APIs` `Firebase`
+Firebase • Firestore
+Google Authentication • Azure AD • Identity Server • SSO
+Third-party API integrations
 
-### 🗄 Databases & Cloud
-`SQL Server` `MySQL` `MongoDB`  
-`Azure` `AWS` `Firebase` `Google Cloud`
+📦 Libraries & Tools
 
----
+Freezed • Dio
+Shared Preferences
+GoRouter • Drift
+Intl (Localization & Multi-language Support)
 
-## 💼 Experience
+☁️ Cloud, Maps & Services
 
-### 🔹 Freelancer / Team Lead  
-**2024 – Present**
-- End-to-end Flutter & Web development
-- Architecture, deployment & cloud integration
-- Leading scalable production applications
+Azure • AWS • Firebase • Google Cloud Engine
+Google Maps • Location Services
 
-### 🔹 Natrix Software Pvt. Ltd.  
-**2013 – 2024**
-- Enterprise-grade mobile & web applications
-- Flutter, Angular, React, ASP .NET Core
-- APIs, cloud services, performance optimization
+💳 Payments & Third-Party Services
 
----
+Stripe Payment Gateway
+SendGrid Email Services
+Secure payment & subscription workflows
 
-## 🏆 Key Projects
+🧪 Quality, Deployment & DevOps
 
-### 🛒 Colorex App (eCommerce)
-- Flutter-based trade eCommerce app (New Zealand)
-- Android & iOS platforms  
-🔗 https://colorex.co.nz/
+Unit & Integration Testing
+App Store & Play Store Deployment
+Production-ready builds & release compliance
 
-### 🎓 Super Kids App
-- Interactive educational app for kids  
-🔗 iOS App Store
+⚙️ Tools & IDEs
 
-### 🎟 Mazoom Invitations
-- Digital invitations, RSVP & QR codes
+Git • GitHub • Bitbucket
+Android Studio • Xcode
+Postman
+Trello • JIRA
 
-### 🏌️ AnyTimePro
-- Live golf coaching platform
-- Video, audio, Firebase, in-app purchases
+🎨 UI / UX
 
----
+Pixel-Perfect UI Implementation
+Responsive Layouts
+Internationalization (i18n) & Localization
 
-## 🎓 Education
+🌍 Domain Experience
 
-- **MCA** – Gujarat Technological University (2009–2012)
-- **BCA** – Veer Narmad South Gujarat University (2005–2008)
+I’ve delivered solutions across multiple product domains, including:
 
----
+🛒 eCommerce & Trade Platforms
+📱 Consumer Mobile Applications
+🎨 Lifestyle & Social Platforms
+👶 Kids & Education Apps
+🧾 Business, CRM & SaaS Systems
+🏌️ Sports & Coaching Applications
 
-## 📬 Contact
+🛠️ What I Build
 
-📧 **vickeyram61@gmail.com**  
-💼 Available for **freelance / remote opportunities**
+📱 Cross-platform mobile apps (iOS & Android)
+🌐 Modern web applications (SPA & SSR)
+🧩 Full-stack systems (MERN, .NET + JS frameworks)
+🔐 Secure authentication & role-based access
+🌐 API-driven architectures
+🧭 Location-aware & map-based solutions
+🌍 Multi-language & localized applications
+🚀 Production-ready systems with store & security compliance
 
----
+💡 Why Work With Me?
 
-⭐ _If you like my work, feel free to star my repositories!_
+✅ 8+ years of real-world mobile & web development experience
+✅ Strong expertise in Flutter & modern JavaScript stacks
+✅ End-to-end product ownership (idea → deployment)
+✅ Clean, scalable, and future-ready code
+✅ Experience working with global teams & clients
+✅ Clear communication & reliable delivery
+
+📬 Contact
+📧 vickeyram61@gmail.com
+
+💼 Available for freelance, remote, and long-term opportunities
