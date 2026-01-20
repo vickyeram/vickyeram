@@ -1,109 +1,129 @@
-👋 Hi, I’m Vikram Sisodiya
+<h1 align="center" style="font-family:Segoe UI,Arial,sans-serif;">
+👋 Hi, I’m <span style="color:#8b5cf6;">Vikram Sisodiya</span>
+</h1>
 
+<h3 align="center" style="font-family:Segoe UI,Arial,sans-serif;">
 🚀 Senior Mobile + Web Developer | Full-Stack Specialist
-Flutter • Dart • Angular • React • Node.js • Next.js • Nuxt • MERN • ASP .NET Core • REST APIs • iOS • Android • Web
+</h3>
 
-I’m a Senior Mobile & Web Developer with 8+ years of experience building scalable, high-performance mobile applications and modern web platforms. I specialize in Flutter (iOS & Android), modern JavaScript frameworks, and full-stack development, with a strong focus on clean architecture, maintainable code, and production-ready solutions.
+<p align="center">
+<b>Flutter</b> • <b>Dart</b> • <b>Angular</b> • <b>React</b> • <b>Node.js</b> • 
+<b>Next.js</b> • <b>Nuxt</b> • <b>MERN</b> • <b>ASP .NET Core</b> • 
+<b>iOS</b> • <b>Android</b> • <b>Web</b>
+</p>
 
-I enjoy transforming complex business requirements into robust, user-friendly applications that scale reliably in real-world production environments.
+<hr/>
 
-🎯 Tech Stack & Expertise
-📱 Mobile Development
+<p>
+I’m a <b>Senior Mobile & Web Developer with 8+ years of experience</b> building scalable,
+high-performance mobile applications and modern web platforms. I specialize in
+<b>Flutter (iOS & Android)</b>, modern JavaScript frameworks, and full-stack development,
+with a strong focus on <b>clean architecture</b>, <b>maintainable code</b>, and
+<b>production-ready solutions</b>.
+</p>
 
-Flutter • Dart (iOS & Android)
-State Management: Provider • Riverpod • GetX • Flutter Hooks
-Architecture: MVVM • Clean Architecture • SOLID Principles
-Responsive & Pixel-Perfect UI Development
+<p>
+I enjoy transforming complex business requirements into <b>robust, user-friendly applications</b>
+that scale reliably in real-world production environments.
+</p>
 
-🌐 Web Development (Frontend)
+<hr/>
 
-Angular • React.js
-Next.js • Nuxt.js
-HTML5 • CSS3 • SCSS • Bootstrap • Material UI
-Redux • SPA & SSR Applications
+<h2 style="font-family:Segoe UI,Arial,sans-serif;">🎯 Tech Stack & Expertise</h2>
 
-🧩 Backend & Full-Stack
+<hr/>
 
-Node.js • Express.js
-ASP .NET Core • C#
-RESTful API Design & Integration
-MERN Stack (MongoDB • Express • React • Node)
+<h3>📱 Mobile Development</h3>
 
-🔌 Authentication, APIs & Integrations
+- Flutter • Dart (iOS & Android)  
+- State Management: Provider • Riverpod • GetX • Flutter Hooks  
+- Architecture: MVVM • Clean Architecture • SOLID Principles  
+- Responsive & Pixel-Perfect UI Development  
 
-Firebase • Firestore
-Google Authentication • Azure AD • Identity Server • SSO
-Third-party API integrations
+---
 
-📦 Libraries & Tools
+<h3>🌐 Web Development (Frontend)</h3>
 
-Freezed • Dio
-Shared Preferences
-GoRouter • Drift
-Intl (Localization & Multi-language Support)
+- Angular • React.js  
+- Next.js • Nuxt.js  
+- HTML5 • CSS3 • SCSS • Bootstrap • Material UI  
+- Redux • SPA & SSR Applications  
 
-☁️ Cloud, Maps & Services
+---
 
-Azure • AWS • Firebase • Google Cloud Engine
-Google Maps • Location Services
+<h3>🧩 Backend & Full-Stack</h3>
 
-💳 Payments & Third-Party Services
+- Node.js • Express.js  
+- ASP .NET Core • C#  
+- RESTful API Design & Integration  
+- MERN Stack (MongoDB • Express • React • Node)  
 
-Stripe Payment Gateway
-SendGrid Email Services
-Secure payment & subscription workflows
+---
 
-🧪 Quality, Deployment & DevOps
+<h3>🔌 Authentication, APIs & Integrations</h3>
 
-Unit & Integration Testing
-App Store & Play Store Deployment
-Production-ready builds & release compliance
+- Firebase • Firestore  
+- Google Authentication • Azure AD • Identity Server • SSO  
+- Third-party API integrations  
 
-⚙️ Tools & IDEs
+---
 
-Git • GitHub • Bitbucket
-Android Studio • Xcode
-Postman
-Trello • JIRA
+<h3>📦 Libraries & Tools</h3>
 
-🎨 UI / UX
+- Freezed • Dio  
+- Shared Preferences  
+- GoRouter • Drift  
+- Intl (Localization & Multi-language Support)  
 
-Pixel-Perfect UI Implementation
-Responsive Layouts
-Internationalization (i18n) & Localization
+---
 
-🌍 Domain Experience
+<h3>☁️ Cloud, Maps & Services</h3>
 
-I’ve delivered solutions across multiple product domains, including:
+- Azure • AWS • Firebase • Google Cloud Engine  
+- Google Maps • Location Services  
 
-🛒 eCommerce & Trade Platforms
-📱 Consumer Mobile Applications
-🎨 Lifestyle & Social Platforms
-👶 Kids & Education Apps
-🧾 Business, CRM & SaaS Systems
-🏌️ Sports & Coaching Applications
+---
 
-🛠️ What I Build
+<h3>💳 Payments & Third-Party Services</h3>
 
-📱 Cross-platform mobile apps (iOS & Android)
-🌐 Modern web applications (SPA & SSR)
-🧩 Full-stack systems (MERN, .NET + JS frameworks)
-🔐 Secure authentication & role-based access
-🌐 API-driven architectures
-🧭 Location-aware & map-based solutions
-🌍 Multi-language & localized applications
-🚀 Production-ready systems with store & security compliance
+- Stripe Payment Gateway  
+- SendGrid Email Services  
+- Secure payment & subscription workflows  
 
-💡 Why Work With Me?
+---
 
-✅ 8+ years of real-world mobile & web development experience
-✅ Strong expertise in Flutter & modern JavaScript stacks
-✅ End-to-end product ownership (idea → deployment)
-✅ Clean, scalable, and future-ready code
-✅ Experience working with global teams & clients
-✅ Clear communication & reliable delivery
+<h3>🧪 Quality, Deployment & DevOps</h3>
 
-📬 Contact
-📧 vickeyram61@gmail.com
+- Unit & Integration Testing  
+- App Store & Play Store Deployment  
+- Production-ready builds & release compliance  
 
-💼 Available for freelance, remote, and long-term opportunities
+---
+
+<h3>⚙️ Tools & IDEs</h3>
+
+- Git • GitHub • Bitbucket  
+- Android Studio • Xcode  
+- Postman  
+- Trello • JIRA  
+
+---
+
+<h3>🎨 UI / UX</h3>
+
+- Pixel-Perfect UI Implementation  
+- Responsive Layouts  
+- Internationalization (i18n) & Localization  
+
+<hr/>
+
+<h2 style="font-family:Segoe UI,Arial,sans-serif;">🌍 Domain Experience</h2>
+
+<hr/>
+
+- 🛒 <b>eCommerce & Trade Platforms</b>  
+- 📱 <b>Consumer Mobile Applications</b>  
+- 🎨 <b>Lifestyle & Social Platforms</b>  
+- 👶 <b>Kids & Education Apps</b>  
+- 🧾 <b>Business, CRM & SaaS Systems</b>  
+- 🏌️
