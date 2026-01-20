@@ -126,4 +126,47 @@ that scale reliably in real-world production environments.
 - 🎨 <b>Lifestyle & Social Platforms</b>  
 - 👶 <b>Kids & Education Apps</b>  
 - 🧾 <b>Business, CRM & SaaS Systems</b>  
-- 🏌️
+- 🏌️ <b>Sports & Coaching Applications</b>  
+
+<hr/>
+
+<h2 style="font-family:Segoe UI,Arial,sans-serif;">🛠️ What I Build</h2>
+
+<hr/>
+
+- 📱 Cross-platform mobile apps (iOS & Android)  
+- 🌐 Modern web applications (SPA & SSR)  
+- 🧩 Full-stack systems (MERN, .NET + JS frameworks)  
+- 🔐 Secure authentication & role-based access  
+- 🌐 API-driven architectures  
+- 🧭 Location-aware & map-based solutions  
+- 🌍 Multi-language & localized applications  
+- 🚀 Production-ready systems with store & security compliance  
+
+<hr/>
+
+<h2 style="font-family:Segoe UI,Arial,sans-serif;">💡 Why Work With Me?</h2>
+
+<hr/>
+
+- ✅ 8+ years of real-world mobile & web development experience  
+- ✅ Strong expertise in Flutter & modern JavaScript stacks  
+- ✅ End-to-end product ownership (idea → deployment)  
+- ✅ Clean, scalable, and future-ready code  
+- ✅ Experience working with global teams & clients  
+- ✅ Clear communication & reliable delivery  
+
+<hr/>
+
+<h2 style="font-family:Segoe UI,Arial,sans-serif;">📬 Contact</h2>
+
+<p>
+📧 <b>vickeyram61@gmail.com</b><br/>
+💼 Available for <b>freelance, remote, and long-term opportunities</b>
+</p>
+
+<hr/>
+
+<p align="center">
+⭐ If you like my work, feel free to star my repositories!
+</p>
