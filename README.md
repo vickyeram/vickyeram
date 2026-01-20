@@ -19,7 +19,7 @@ Senior **Mobile & Web Developer** with **8+ years of experience** building scala
 high-performance applications.
 
 - 📱 Flutter (iOS & Android)
-- 🌐 Angular, React
+- 🌐 .NET Core, Node, Angular, React
 - 🧠 Clean Architecture, MVVM, SOLID
 - ☁️ Azure, AWS, Firebase
 - 💳 Stripe, SendGrid, Auth Systems
